@@ -1,6 +1,6 @@
 package org.example;
 
-public class POST {
+public class Post {
     public FormDate birthday;
     public String name;
     public String passport;
@@ -11,5 +11,6 @@ public class POST {
 
     public String surname;
 
-    public String subscription;
+    public boolean subscription;
 }
+
